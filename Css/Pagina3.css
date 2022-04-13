@@ -1,0 +1,224 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#contenedor {
+	margin:auto;
+	width:1200px;
+	font-family:Hobo Std;
+	font-size:20px;
+}
+
+ul
+{
+	list-style:none;
+}
+
+.lista > li {
+	float:left;
+}
+
+.lista li a
+{
+	color:#66205F;
+	text-decoration:none;
+	padding:20px 40px;
+	display: block;
+}
+
+.lista li a:hover
+{
+	background-image:url("https://coo2.tuvotacion.com/imagenes_opciones/que-emoji-tumblr-prefieres-1783661.jpg");
+}
+
+.lista li ul
+{
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+
+.lista li:hover > ul 
+{
+	display:block;
+}
+
+.lista li ul li
+{
+	position:relative;
+}
+
+.lista li ul li ul
+{
+	right:-197px;
+	top:0px;
+}
+header div{
+background-image:url("https://cdn.pixabay.com/photo/2017/03/25/17/56/color-2174050_960_720.png");		
+background-size:100% 100%;
+overflow:hidden;	
+}
+
+nav
+{
+	text-align:center;
+}
+ul li ul{
+	background-image:url("http://www.cfht.hawaii.edu/News/Anniversary/D1_full_medium.jpg");
+}
+body{
+	background-image:url("https://mentorphiledotcom.files.wordpress.com/2016/12/snapchat.gif");
+	background-color:rgba(20,40,28,0.5);
+
+}
+div{
+text-align:center;
+font-family:"Georgia";
+font-size:15px;
+color:#0129F0;
+font-weight:normal;
+
+}
+h1{
+text-align:center;
+font-family:"Georgia";
+font-size:30px;
+color:#0129F0;
+font-weight:normal;
+}
+h2{
+	font-size:35px;
+	color:#81F79F;
+	text-align:center;
+	font-family:"Script MT Bold";
+}
+
+.parrafo{
+	text-align:left;
+	color:#E0E0F8;
+	font-family:"Verdana";
+
+}
+	
+.parrafo1{
+	text-align:left;
+	color:#E0E0F8;
+	font-family:"Verdana";
+
+}
+	
+	
+header, .main, footer{
+	background-size:100% 100%;
+	margin:20px auto;
+	max-width:1200px;
+	background-repeat:no-repeat;
+	
+}
+	
+header nav {
+		background-image:url("https://cdn.semrush.com/blog/static/media/46/96/46967a590bb56c13ec94d73b41d8f5e2/resize/885x-/12072017-ditch-snapchat-for-instagram-01.png");
+		overflow:hidden;
+}
+	
+header nav ul {
+	list-style:none;
+}
+	
+header nav ul li{
+	float:left;
+}
+
+header nav ul li a{
+	padding:10px 20px;
+	text-decoration:none;
+	color:#78163F;
+	font-size:28px;
+	display:inline-block;
+}
+
+header nav ul li a:hover{
+	background-image:url("https://i.pinimg.com/originals/5d/b6/a9/5db6a9af4f855843a2b1ff7b34830530.jpg");
+	
+}
+
+.main	.articles {
+	width:68.5%;
+	float:left;
+	margin-right:1.5%;
+
+}
+
+aside{
+	width:30%;
+	background:#01B1BD;
+	float:left;
+	padding:10px 10px;
+	box-sizing:border-box;
+	background-image:url("https://k61.kn3.net/taringa/2/2/9/2/2/5//eldolape22/C4B.gif");
+}
+
+.main	.articles article{
+background:#fff;
+margin-bottom:20px;
+padding:10px 10px;
+background-image:url("http://static4.uk.businessinsider.com/image/57f91369dd08957e358b4c45/bi-graphics-secret-snap.gif");
+
+}
+
+footer{
+	background-image:url("http://images.clipartlogo.com/files/ss/original/122/122265097/seamless-kawaii-child-pattern.jpg");
+	color:#2E2E2E;
+	clear:both;
+	text-align:center;
+	padding:10px 0px;
+}
+
+.imagen1{
+	width:900px;
+	height:230px;
+border-radius:25%;
+border: pink 5px groove;
+background-color:rgba(30,20,30,0.5);
+}
+	
+.imagen2{
+	width:300px;
+	height:auto;
+	border-radius:30%;
+border: yellow 5px groove;
+	}
+
+.imagen3{
+	width:300px;
+	height:auto;
+	border-radius:15%;
+	text-align:center;
+	border: purple 5px groove; 
+}
+	
+	.imagen5{
+	width:300px;
+	height:auto;
+	border-radius:15%;
+	border: gray 5px groove;
+	}
+	
+	.imagen6S{
+width:400px;
+	height:auto;
+	border-radius:15%;
+	border: gray 5px groove;
+	}
+	
+	
+
+.secundario{
+	color:#241D16;
+	font-size:20px;
+}
+
+
+
+
+
